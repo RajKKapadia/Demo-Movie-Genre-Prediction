@@ -163,3 +163,8 @@ models/
 app_logs/
 bert-base-uncased/
 movie-dataset
+model/
+cleaned_data/
+distil-bert-base-uncased/
+result/
+submissions/
